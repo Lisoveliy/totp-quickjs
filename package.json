@@ -10,8 +10,6 @@
   "license": "ISC",
   "description": "",
   "dependencies": {
-    "base32": "^0.0.7",
-    "hmac_sha1": "^0.1.1",
     "jssha": "^3.3.1"
   }
 }
